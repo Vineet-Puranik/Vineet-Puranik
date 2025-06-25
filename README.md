@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FindMyOrg](https://findmyorg.com)
 
-- 🌱 I’m currently learning **Python & C++**
+- 🌱 I’m currently learning **Python & C+**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vineet-Puranik](https://github.com/Vineet-Puranik)
 
